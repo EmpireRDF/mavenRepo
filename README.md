@@ -8,10 +8,10 @@ To use this repository make sure you have the following repository configured in
         <id>EmpireRDF</id>
         <url>https://github.com/EmpireRDF/mavenRepo/raw/master/releases</url>
     </repository>
-    <snapshotRepository>
+    <repository>
         <id>EmpireRDF-snapshot</id>
         <url>https://github.com/EmpireRDF/mavenRepo/raw/master/snapshots</url>
-    </snapshotRepository>
+    </repository>
 </repositories>
 ```
 
