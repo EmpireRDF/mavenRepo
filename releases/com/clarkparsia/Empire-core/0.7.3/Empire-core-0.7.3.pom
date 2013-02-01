@@ -169,9 +169,9 @@
     <dependency>
       <groupId>com.sun</groupId>
       <artifactId>tools</artifactId>
-      <version>1.5</version>
+      <version>${java.version}</version>
       <scope>system</scope>
-      <systemPath>/home/esteban/programs/jdk1.6.0_37/jre/../lib/tools.jar</systemPath>
+      <systemPath>${java.home}/../lib/tools.jar</systemPath>
     </dependency>
   </dependencies>
 </project>
