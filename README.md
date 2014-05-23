@@ -15,3 +15,6 @@ To use this repository make sure you have the following repository configured in
 </repositories>
 ```
 
+To deploy into this repository, you can use the following command:
+
+`mvn deploy -DskipTests=true -DaltDeploymentRepository=releases::default::file:/the/path/to/this/repo/mavenRepo/releases/`
