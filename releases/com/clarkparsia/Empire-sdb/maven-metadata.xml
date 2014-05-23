@@ -3,10 +3,11 @@
   <groupId>com.clarkparsia</groupId>
   <artifactId>Empire-sdb</artifactId>
   <versioning>
-    <release>0.7.4</release>
+    <release>0.7.3-CG</release>
     <versions>
       <version>0.7.4</version>
+      <version>0.7.3-CG</version>
     </versions>
-    <lastUpdated>20140418141737</lastUpdated>
+    <lastUpdated>20140523142107</lastUpdated>
   </versioning>
 </metadata>
