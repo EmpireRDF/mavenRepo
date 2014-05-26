@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Drools :: Shapes Generator Plugin</name>
+      <prefix>drools-shapes-generator</prefix>
+      <artifactId>drools-shapes-generator-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Drools :: XSD -> OWL2 converter plugin</name>
+      <prefix>drools-shapes-xsd-processor</prefix>
+      <artifactId>drools-shapes-xsd-processor-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

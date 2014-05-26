@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.drools</groupId>
+  <artifactId>drools-shapes-reasoner</artifactId>
+  <versioning>
+    <release>0.5.6.Final</release>
+    <versions>
+      <version>0.5.6.Final</version>
+    </versions>
+    <lastUpdated>20140526093049</lastUpdated>
+  </versioning>
+</metadata>
